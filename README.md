@@ -6,3 +6,4 @@
 - React
 - React Router DOM
 - ESlint
+- EditorConfig
